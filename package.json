@@ -1,0 +1,110 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rn-swipe-out@^0.3.0",
+        "scope": null,
+        "escapedName": "rn-swipe-out",
+        "name": "rn-swipe-out",
+        "rawSpec": "^0.3.0",
+        "spec": ">=0.3.0 <0.4.0",
+        "type": "range"
+      },
+      "/Applications/XAMPP/xamppfiles/htdocs/github/dewo/knomary_my_work"
+    ]
+  ],
+  "_from": "rn-swipe-out@>=0.3.0 <0.4.0",
+  "_id": "rn-swipe-out@0.3.0",
+  "_inCache": true,
+  "_location": "/rn-swipe-out",
+  "_nodeVersion": "6.10.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/rn-swipe-out-0.3.0.tgz_1495414938591_0.9736287782434374"
+  },
+  "_npmUser": {
+    "name": "smallcomfort",
+    "email": "799637494@qq.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rn-swipe-out@^0.3.0",
+    "scope": null,
+    "escapedName": "rn-swipe-out",
+    "name": "rn-swipe-out",
+    "rawSpec": "^0.3.0",
+    "spec": ">=0.3.0 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rn-swipe-out/-/rn-swipe-out-0.3.0.tgz",
+  "_shasum": "a5ebef254f640ec7a8bb029397497b087734dfe2",
+  "_shrinkwrap": null,
+  "_spec": "rn-swipe-out@^0.3.0",
+  "_where": "/Applications/XAMPP/xamppfiles/htdocs/github/dewo/knomary_my_work",
+  "author": {
+    "name": "ChuangChuang"
+  },
+  "bugs": {
+    "url": "https://github.com/SmallComfort/rn-swipe-out/issues"
+  },
+  "dependencies": {},
+  "description": "The iOS-style Swipeout component, implement with javascript, running on iOS and Android. High performance, interactive, and configurable.",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^3.12.2",
+    "eslint-plugin-react": "^6.8.0",
+    "eslint-plugin-react-native": "^2.2.1",
+    "react": "15.4.2",
+    "react-native": "0.42.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "dist": {
+    "shasum": "a5ebef254f640ec7a8bb029397497b087734dfe2",
+    "tarball": "https://registry.npmjs.org/rn-swipe-out/-/rn-swipe-out-0.3.0.tgz"
+  },
+  "gitHead": "83f757339fee78fc77683eee4f3e13a5ec419d5d",
+  "homepage": "https://github.com/SmallComfort/rn-swipe-out",
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "swipeout",
+    "react-native",
+    "javascript",
+    "ios",
+    "android",
+    "swipe-gestures",
+    "animation",
+    "high-performance",
+    "swipe"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "smallcomfort",
+      "email": "799637494@qq.com"
+    }
+  ],
+  "name": "rn-swipe-out",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmallComfort/rn-swipe-out.git"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "version": "0.3.0"
+}
